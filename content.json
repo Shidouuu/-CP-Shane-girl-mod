@@ -1,0 +1,40 @@
+{
+    "Format": "1.29.0",
+    "Changes": [
+      {
+         "Action": "EditImage",
+         "Target": "Characters/Shane",
+         "FromFile": "assets/Characters/Shane.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors.es-ES.xnb",
+         "FromFile": "assets/LooseSprites/Cursors/Cursors.es-ES.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors.ja-JP.xnb",
+         "FromFile": "assets/LooseSprites/Cursors/Cursors.ja-JP.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors.xnb",
+         "FromFile": "assets/LooseSprites/Cursors/Cursors.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors.pt-BR.xnb",
+         "FromFile": "assets/LooseSprites/Cursors/Cursors.pt-BR.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors.ru-RU.xnb",
+         "FromFile": "assets/LooseSprites/Cursors/Cursors.ru-RU.png",
+      },
+      {
+         "Action": "EditImage",
+         "Target": "Portraits/Shane",
+         "FromFile": "assets/Portraits/Shane.png",
+      },
+    ]
+}

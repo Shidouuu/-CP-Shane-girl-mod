@@ -1,0 +1,11 @@
+{
+    "Name": "Shane girl MOD",
+    "Author": "rekooooon",
+    "Version": "1.0.0",
+    "Description": "Changes Shane to a grill. CP version by Shidouuu (Miidorii).",
+    "UniqueID": "rekooooon.shanegirlmod",
+    "UpdateKeys": [ "Nexus: 1946" ], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
