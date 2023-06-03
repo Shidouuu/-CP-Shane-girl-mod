@@ -8,6 +8,11 @@
       },
       {
          "Action": "EditImage",
+         "Target": "Characters/Shane_JojaMart",
+         "FromFile": "assets/Characters/Shane_JojaMart.png",
+      },
+      {
+         "Action": "EditImage",
          "Target": "LooseSprites/Cursors.es-ES.xnb",
          "FromFile": "assets/LooseSprites/Cursors/Cursors.es-ES.png",
       },
